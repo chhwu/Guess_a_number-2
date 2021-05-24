@@ -1,1 +1,1 @@
-# Guess_a_number-2
+# Player only has 3 tries to guess the number.
